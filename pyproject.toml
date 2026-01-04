@@ -30,9 +30,9 @@ dev = [
 ]
 
 [project.urls]
-Repository = "https://github.com/zetaneko/comfyui_lmstudio"
-BugTracker = "https://github.com/zetaneko/comfyui_lmstudio/issues"
-Documentation = "https://github.com/zetaneko/comfyui_lmstudio/wiki"
+Repository = "https://github.com/zetaneko/comfy-lmstudio"
+BugTracker = "https://github.com/zetaneko/comfy-lmstudio/issues"
+Documentation = "https://github.com/zetaneko/comfy-lmstudio/wiki"
 
 
 [tool.comfy]
@@ -40,7 +40,7 @@ PublisherId = "zetaneko"
 DisplayName = "ComfyUI LM Studio Nodes"
 Icon = ""
 Tags = []
-Repository = "https://github.com/zetaneko/comfyui_lmstudio"
+Repository = "https://github.com/zetaneko/comfy-lmstudio"
 
 includes = []
 
